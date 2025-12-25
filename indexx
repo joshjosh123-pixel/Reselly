@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Reselling en Vinted</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #ff6b6b; color: white; text-align: center; padding: 20px; }
+        nav { background-color: #333; color: white; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 20px; margin: 20px; background-color: white; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h2 { color: #ff6b6b; }
+        img { max-width: 100%; height: auto; border-radius: 8px; }
+        footer { text-align: center; padding: 10px; background-color: #333; color: white; }
+        .highlight { background-color: #fff3cd; padding: 10px; border-left: 5px solid #ffc107; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Guía Completa para Empezar en el Reselling en Vinted</h1>
+        <p>Aprende a vender ropa de segunda mano de forma rentable con bajo capital.</p>
+    </header>
+    <nav>
+        <a href="#que-es">¿Qué es Vinted?</a>
+        <a href="#detalles">Detalles del Reselling</a>
+        <a href="#con-capital">Empezar con Capital</a>
+        <a href="#sin-capital">Empezar sin Capital</a>
+        <a href="#consejos">Consejos Prácticos</a>
+    </nav>
+
+    <section id="que-es">
+        <h2>¿Qué es Vinted y el Reselling?</h2>
+        <p>Vinted es una plataforma europea (disponible en España, Francia, etc.) para comprar y vender ropa, accesorios y artículos de segunda mano. El reselling consiste en comprar artículos baratos y revenderlos a un precio más alto para obtener ganancias. Es ideal para emprendedores con poco capital, ya que puedes empezar con artículos de tu hogar o compras pequeñas.</p>
+        <img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Plataforma Vinted en un teléfono">
+        <p><em>Imagen: Interfaz de Vinted en un dispositivo móvil (fuente: Unsplash).</em></p>
+    </section>
+
+    <section id="detalles">
+        <h2>Detalles del Reselling en Vinted</h2>
+        <p>El reselling en Vinted es rentable porque la demanda de moda sostenible es alta. Beneficios: bajo costo de entrada, flexibilidad horaria y posibilidad de escalar. Desafíos: competencia, envíos y gestión de inventario. Usa categorías como ropa de mujer, hombre o niños. Precios: compra por 5-10€ y vende por 20-50€.</p>
+        <ul>
+            <li><strong>Comisiones:</strong> Vinted cobra una tarifa de 5-10% por venta, más costos de envío.</li>
+            <li><strong>Herramientas:</strong> Usa apps como Depop o Facebook Marketplace para sourcing.</li>
+            <li><strong>Legal:</strong> Declara ingresos si superas ciertos límites; usa facturas para compras.</li>
+        </ul>
+        <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Ropa de segunda mano en una tienda">
+        <p><em>Imagen: Artículos
